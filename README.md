@@ -1,4 +1,4 @@
-# Medical Cost Predict
+# Tech Challenge - Etapa 1
 
 Este projeto tem como objetivo prever os custos médicos com base em um conjunto de dados de características dos pacientes, utilizando técnicas de Machine Learning.
 
