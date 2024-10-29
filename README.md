@@ -12,9 +12,10 @@ O *Medical Cost Predict* usa aprendizado de máquina para analisar dados como id
 - [Maycon Garrido](#)
 - [Samuel Huss](#)
 
-## Link para o vídeo no YouTube
+## Links Úteis
 
-Assista ao vídeo de apresentação e demonstração do projeto: [YouTube](https://www.youtube.com/watch?v=FPDrP2qd3u4)
+- Assista ao vídeo de apresentação e demonstração do projeto: [YouTube](https://www.youtube.com/watch?v=FPDrP2qd3u4)
+- Dataset e Notebook no Kaggle: [Acesse aqui](https://www.kaggle.com/code/samuelhuss/projeto-finalizado-etapa-1)
 
 
 
